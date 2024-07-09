@@ -1,0 +1,74 @@
+    {
+        "weathers": [
+            {
+                "city": "Pune",
+                "temperature": "38.5",
+                "humidity": "35%",
+                "type": "Sunny",
+                "photo": "https://cdn-icons-png.flaticon.com/512/7084/7084512.png"
+            },
+            {
+                "city": "Mumbai",
+                "temperature": "40.2",
+                "humidity": "30%",
+                "type": "Sunny",
+                "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81AOOww4MBFo1iwmJaNFccIf8unmYRr_1kq4-_iAwOA&s"
+            },
+            {
+                "city": "Gujrat",
+                "temperature": "30.5",
+                "humidity": "33%",
+                "type": "Cloudy",
+                "photo": "https://cdn2.iconfinder.com/data/icons/weather-flat-14/64/weather02-512.png"
+            },
+            {
+                "city": "Banglore",
+                "temperature": "28.8",
+                "humidity": "40%",
+                "type": "Rainy",
+                "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRTokq8wmIXDEBplbzBQ83LCAQdNeg7rCZt4Xu069skw&s"
+            },
+            {
+                "city": "Rajasthan",
+                "temperature": "48.5",
+                "humidity": "25%",
+                "type": "Hot",
+                "photo": "https://toppng.com/uploads/preview/sunny-weather-icon-115330492027cvmqyhy8b.png"
+            },
+            {
+                "city": "Punjab",
+                "temperature": "38.5",
+                "humidity": "35%",
+                "type": "Sunny",
+                "photo": "https://cdn-icons-png.flaticon.com/512/7084/7084512.png"
+            },
+            {
+                "city": "Indore",
+                "temperature": "40.2",
+                "humidity": "30%",
+                "type": "Sunny",
+                "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81AOOww4MBFo1iwmJaNFccIf8unmYRr_1kq4-_iAwOA&s"
+            },
+            {
+                "city": "Assam",
+                "temperature": "30.5",
+                "humidity": "33%",
+                "type": "Cloudy",
+                "photo": "https://cdn2.iconfinder.com/data/icons/weather-flat-14/64/weather02-512.png"
+            },
+            {
+                "city": "Chennai",
+                "temperature": "28.8",
+                "humidity": "40%",
+                "type": "Rainy",
+                "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRTokq8wmIXDEBplbzBQ83LCAQdNeg7rCZt4Xu069skw&s"
+            },
+            {
+                "city": "Solapur",
+                "temperature": "48.5",
+                "humidity": "25%",
+                "type": "Hot",
+                "photo": "https://toppng.com/uploads/preview/sunny-weather-icon-115330492027cvmqyhy8b.png"
+            }
+        ]
+    }

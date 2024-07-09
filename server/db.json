@@ -1,0 +1,114 @@
+{
+  "contacts": [
+    {
+      "id": "GOO0912",
+      "name": "Arti",
+      "photo": "https://w7.pngwing.com/pngs/915/511/png-transparent-female-avatar-girl-face-woman-user-flat-classy-users-icon-thumbnail.png",
+      "contact": "7837276741",
+      "email": "arti@gmail.com",
+      "company": "Google",
+      "title": "Developer",
+      "gruopId": "Friend",
+      "groupId": "Friend"
+    },
+    {
+      "id": "ACC0109",
+      "name": "Sakshi",
+      "photo": "https://as1.ftcdn.net/v2/jpg/01/21/93/74/1000_F_121937450_E3o8jRG3mKbMaAFprSuNOlyrLraSVVua.jpg",
+      "contact": "8987276741",
+      "email": "sakshi@gmail.com",
+      "company": "Accenture",
+      "title": "Frontend Dev",
+      "gruopId": "Friend",
+      "groupId": "Friend"
+    },
+    {
+      "id": "SAL0613",
+      "name": "Sayali",
+      "photo": "https://icon2.cleanpng.com/20190807/fwk/kisspng-transparency-user-profile-avatar-computer-5d4a68647d97e4.9457821415651574765144.jpg",
+      "contact": "7637276700",
+      "email": "sayali@gmail.com",
+      "company": "Salon",
+      "title": "Beautician",
+      "gruopId": "Family",
+      "groupId": "Family"
+    },
+    {
+      "id": "WIP0412",
+      "name": "Jayashri",
+      "photo": "https://static.vecteezy.com/system/resources/previews/009/397/892/non_2x/woman-face-expression-clipart-design-illustration-free-png.png",
+      "contact": "7737276741",
+      "email": "jayashri@gmail.com",
+      "company": "Wipro",
+      "title": "Developer",
+      "gruopId": "Friend",
+      "groupId": "Friend"
+    },
+    {
+      "id": "DOC2611",
+      "name": "Swarup",
+      "photo": "https://e7.pngegg.com/pngimages/799/987/png-clipart-computer-icons-avatar-icon-design-avatar-heroes-computer-wallpaper-thumbnail.png",
+      "contact": "8937276767",
+      "email": "swarup@gmail.com",
+      "company": "DYP Hospital",
+      "title": "Doctor",
+      "gruopId": "Family",
+      "groupId": "Friend"
+    },
+    {
+      "id": "TCS0003",
+      "name": "Aman",
+      "photo": "https://icons.veryicon.com/png/o/miscellaneous/user-avatar/user-avatar-male-5.png",
+      "contact": "8777276741",
+      "email": "aman@gmail.com",
+      "company": "TCS",
+      "title": "Developer",
+      "gruopId": "Collegue",
+      "groupId": "Collegue"
+    },
+    {
+      "id": "TCS3112",
+      "name": "Mayuri",
+      "photo": "https://w7.pngwing.com/pngs/439/19/png-transparent-avatar-user-profile-icon-women-wear-frock-face-holidays-women-accessories-thumbnail.png",
+      "contact": "7687276741",
+      "email": "mayuri@gmail.com",
+      "company": "TCS",
+      "title": "Developer",
+      "gruopId": "Collegue"
+    },
+    {
+      "id": "8104",
+      "name": "Rohit",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX_bBFTVCBK8wcwnnfHO3a0kHYZqcEJOuhTXh4hUWazw&s",
+      "contact": "7685431230",
+      "email": "rohit@gmail.com",
+      "company": "Infosys",
+      "title": "Software Tester",
+      "groupId": "Collegue"
+    },
+    {
+      "id": "88f9",
+      "name": "Pallavi",
+      "photo": "https://www.pngall.com/wp-content/uploads/12/Avatar-PNG-Photo.png",
+      "contact": "8965864311",
+      "email": "pallavi@gmail.com",
+      "company": "Wipro",
+      "title": "Software Developer",
+      "groupId": "Family"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "groupName": "Family"
+    },
+    {
+      "id": "2",
+      "groupName": "Friend"
+    },
+    {
+      "id": "3",
+      "groupName": "Collegue"
+    }
+  ]
+}
